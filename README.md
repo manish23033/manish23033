@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [Resume](Resume)
 
-- ⚡ Fun fact **I am intresting and focused.**
+- ⚡ Fun fact **“Future AI engineer in progress ...” 🚀**
 
 <h3 align="left">Connect with me:</h3>
 
