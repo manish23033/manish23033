@@ -57,4 +57,4 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!;Explore+my+repos+and+let's+code!;🚀+Happy+Coding!+🚀" alt="Typing SVG" />
 </p>
 
-<p align="center">⭐ <em>Star my repos if you find them useful, and let's connect to innovate together!</em> ⭐</p>
+<!-- <p align="center">⭐ <em>Star my repos if you find them useful, and let's connect to innovate together!</em> ⭐</p> -->
