@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Manish Kumar Agrahari</h1>
+<h1 align="center">Hi , I'm Manish Kumar Agrahari</h1>
 <h3 align="center">Code. Learn. Build. Repeat. 🚀 Developer passionate about technology, innovation, and crafting reliable software solutions.”</h3>
 
 
